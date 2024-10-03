@@ -27,7 +27,7 @@ Asegúrate de tener el WebDriver correspondiente instalado y configurado en tu s
 1. **Clonar el repositorio:**
 
    ```bash
-   git clone https://github.com/theoffsecgirl/autoSelenium.git
+   git clone https://github.com/theoffsecgirl/selenium_automation.git
    cd autoSelenium
    ```
 
